@@ -1,2 +1,2 @@
 # Machine-Learning
-Machine Learning Algorithms in Python and R
+Machine Learning in Python and R
