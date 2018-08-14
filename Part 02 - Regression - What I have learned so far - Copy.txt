@@ -1,9 +1,3 @@
-# Machine-Learning
-Machine Learning in Python and R
-
-
-WHAT I HAVE LEARNED SO FAR
-
 Section 01 - Introduction
 -Installing R and R Studio in Windows
 -Installing Python and Anaconda in Windows
@@ -17,17 +11,19 @@ Section 02 - Preprocessing Data
 -Feature Scaling
 -Setting Up Working Directory
 
+Section 03 -------------------- Part 2 - Regression --------------------
+
 Section 04 - Simple Linear Regression
 -Simple Linear Regression in Python
 --
 -Simple Linear Regression in R
---Import Datasets
+--Import the dataset
 --Split Datasets into Training and Test sets
 --Feature Scaling
 --Fit Simple Linear Regression to the Training set
---Predict Test set results
---Visualize Training set results
---Visualize Test set results
+--Predict the Test set results
+--Visualize the Training set results
+--Visualize the Test set results
 
 Section 05 - Multiple Linear Regression
 -Multiple Linear Regression and Backward Elimination in Python 
@@ -62,15 +58,65 @@ Section 06 - Polynomial Linear Regression
 --Feature Scaling (skipped)
 --Fit Linear Regression to dataset
 --Fit Polynomial Regression to dataset
---Visualize Linear Regression results
---Visualize Polynomial Regression results
---Visualize Polynomial Regression results (for higher resolution and smoother curve)
+--Visualise Linear Regression results
+--Visualise Polynomial Regression results
+--Visualise Polynomial Regression results (for higher resolution and smoother curve)
 --Predict results with Linear Regression
 --Predict results with Polynomial Regression
 --Create a Regression Template
 
 Section 07 - Support Vector Regression (SVR)
 -Support Vector Regression in Python
---
+--Import libraries
+--Import dataset
+--Feature Scaling
+--Fit SVR to the dataset
+--Predict a new result
+--Visualising the SVR results
+--Visualising the SVR results (for higher resolution and smoother curve)
 -Support Vector Regression in R
+--Import dataset
+--Fitting SVR to the dataset
+--Predicting a new result
+--Visualising the SVR results
+
+Section 08 - Decision Tree Regression
+-Decision Tree Regression in Python
+--Import libraries
+--Import dataset
+--Fitting Decision Tree Regression to the dataset
+--Predicting a new result with Decision Tree Regression
+--Visualising the Decision Tree Regression results (higher resolution)
+-Decision Tree Regression in R
+--Import dataset
+--Fitting Decision Tree Regression to the dataset
+--Predicting a new result with Decision Tree Regression
+--Visualising the Decision Tree Regression results (higher resolution)
+--Plotting the tree
+
+Section 09 - Random Forest Regression
+-Random Forest Regression in Python
+--Import libraries
+--Import dataset
+--Fitting Random Forest Regression to the dataset
+--Predicting a new result
+--Visualising the Random Forest Regression results (higher resolution)
+-Random Forest Regression in R
+--Import dataset
+--Fitting Random Forest Regression to the dataset
+--Predicting a new result with Random Forest Regression
+--Visualising the Random Forest Regression results (higher resolution)
+
+Section 10 - Evaluating Regression Models Performance
+-R-Squared Intuition
 --
+-Adjusted R-Squared Intuition
+--
+-Evaluating Regression Models Performance - Homework's Final Part
+--
+-Interpreting Linear Regression Coefficients
+--
+
+Section 11 - Regularization Methods
+
+Section 12 - Part Recap
