@@ -1,0 +1,19 @@
+1 convolutional layer, 64x64
+250/250 [==============================] - 113s 454ms/step - 
+loss: 0.2706 - acc: 0.8889 - val_loss: 0.6361 - val_acc: 0.7655
+
+2 convolutional layers, 64x64
+250/250 [==============================] - 117s 469ms/step - 
+loss: 0.2287 - acc: 0.9079 - val_loss: 0.5695 - val_acc: 0.7920
+
+2 convolutional layers, 128x128
+250/250 [==============================] - 409s 2s/step - 
+loss: 0.2064 - acc: 0.9104 - val_loss: 0.5720 - val_acc: 0.8105
+
+3 convolutional layers, 64x64
+250/250 [==============================] - 223s 893ms/step - 
+loss: 0.2873 - acc: 0.8728 - val_loss: 0.4426 - val_acc: 0.8040
+
+3 convolutional layers, 128x128
+250/250 [==============================] - 514s 2s/step - 
+loss: 0.2236 - acc: 0.9055 - val_loss: 0.4205 - val_acc: 0.8410
