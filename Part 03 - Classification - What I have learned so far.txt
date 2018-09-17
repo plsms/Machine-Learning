@@ -1,0 +1,57 @@
+Section 13 -------------------- Part 3 - Classification --------------------
+
+Section 14 - Logistic Regression
+-Logistic Regression Intuition
+-Logistic Regression in Python
+--Importing the libraries
+--Importing the dataset
+--Splitting the dataset into the Training set and Test set
+--Feature Scaling
+--Fitting Logistic Regression to the Training set
+--Predicting the Test set results
+--Making the Confusion Matrix
+--Visualising the Training set results
+--Visualising the Test set results
+
+Section 15 - K-Nearest Neighbor (K-NN)
+-K-NN Intuition
+-K-NN in Python
+--Fitting K-NN to the Training set
+
+Section 16 - Support Vector Machine (SVM)
+-SVM Intuition
+-SVM in Python
+--Fitting SVM to the Training set
+
+Section 17 - Kernel SVM
+-Kernel SVM Intuition
+-Mapping to a higher dimension
+-The Kernel Trick
+-Types of Kernel Functions
+-Kernel SVM in Python
+--Fitting Kernel SVM to the Training set
+
+Section 18 - Naive Bayes
+-Bayes Theorem
+-Naive Bayes Intuition
+-Naive Bayes in Python
+--Fitting Naive Bayes to the Training set
+
+Section 19 - Decision Tree Classification
+-Decision Tree Classification Intuition
+-Decision Tree Classification in Python
+--Fitting Decision Tree Classification to the Training set
+
+Section 20 - Random Forest Classification
+-Random Forest Classification Intuition
+-Random Forest Classification in Python
+--Fitting Random Forest Classification to the Training set
+
+Section 21 - Evaluating Classification Models Performance
+-False Positives & False Negatives
+-Confusion Matrix
+-Accuracy Paradox
+-CAP Curve
+-CAP Curve Analysis
+
+Section 22 - Part Recap
