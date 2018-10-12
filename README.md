@@ -1,6 +1,14 @@
 # Machine-Learning
 Machine Learning in Python and R
 
+---
+
+#Jekyll Markdown Quick Reference
+
+####Write in simply awesome markdown
+
+---
+
 layout: post
 title: Markdown Style Guide
 ---
