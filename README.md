@@ -1,4 +1,4 @@
 # Machine-Learning
 Machine Learning in Python and R
 
-https://plsms.github.io/mlaz
+https://plsms.github.io/mlaz.html
